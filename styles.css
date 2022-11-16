@@ -1,0 +1,16 @@
+﻿*{
+margin : 0;
+padding: 0;
+}
+body{
+background: #eee;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.container{
+width: 96%
+margin: 20px auto;
+}
+.book{
+width: 48%;
+float: left;
+background: #fff;
